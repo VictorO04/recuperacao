@@ -1,0 +1,6 @@
+[
+  {"id": "1", "grupo": "A", "selecao": "Brasil", "bandeira": "https://flagcdn.com/br.svg"},
+  {"id": "2", "grupo": "A", "selecao": "Argentina", "bandeira": "https://flagcdn.com/ar.svg"},
+  {"id": "3", "grupo": "B", "selecao": "França", "bandeira": "https://flagcdn.com/fr.svg"},
+  {"id": "4", "grupo": "B", "selecao": "Portugal", "bandeira": "https://flagcdn.com/pt.svg"}
+]
